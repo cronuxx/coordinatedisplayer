@@ -146,29 +146,6 @@ int main(){
             else{cout << " ";}
         }
         cout << endl;
-        
-
-        // if(x1 == 0){
-        //     if(i == negativeY){
-        //         for(int j = 0; j < x; j++){
-        //         cout << " "; 
-        //         }
-        //         cout << middot << endl;
-        //         if(counter < lenght - 1){
-        //             counter++;
-        //         }
-        //         x1 = matris[counter][0]; 
-        //         y1 = matris[counter][1];
-        //         int coordinaty = (y-y1);
-        //         int coordinatx = (x+x1);
-        //     }
-        //     else{
-        //         for(int j = 0; j < x; j++){
-        //         cout << " "; 
-        //         }
-        //         cout << yaxis << endl;
-        //     }
-        // }
     }
     
     cout << "lenght: " << lenght;
