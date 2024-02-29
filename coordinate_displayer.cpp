@@ -24,7 +24,9 @@ int main(){
         {-4,4},
         {2,-1}
 
-    }; // <----- your coordinates are here
+    }; // <----- your coordinates are here 
+    // The coordinates should be written in the order from the one with the highest y value and the smallest x value to the one with the smallest y value and the highest x value.
+    // Example: {-11,10} , {-10,10} , {-8,10} , {3,8} , {8,8} .......
 
     int lenght = sizeof(matris)/sizeof(matris[0]);
 
